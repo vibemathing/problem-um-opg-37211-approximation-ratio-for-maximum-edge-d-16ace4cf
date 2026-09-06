@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-opg-37211-approximation-ratio-for-maximum-edge-d-16ace4cf`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359340136`
+- Repository node ID: `R_kgDOUQXiaA`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:um-opg-37211-approximation-ratio-for-maximum-edge-d-16ace4cf`
+- ProblemContract SHA-256: `88d113aa8ee9e4e10080f9ad72712fe46e1b8ab538b3e27fde87ba3d6c4f36bd`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.3`
 - Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
-- Harness snapshot SHA-256: `480e6d737bf046c6eebfa084773e4e109f9b14c67f1dd20a1103ef1ca6f4ffbe`
+- Harness snapshot SHA-256: `ad4925f9bdd209fd0494327d9c78bf8d5a8de8e29c5a91f493aab796f01f08d5`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
